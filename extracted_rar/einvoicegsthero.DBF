@@ -1,0 +1,2 @@
+USERNAME,PASSWORD,CLIENT_ID,EUSERNAME,EPASSWORD,AUTHTOKEN,AUTH2,ACCESSTOKN,REFRESTOKN,FACCTOKN,FREFTOKN
+atulshah999@gmail.com,caresoft123,d78aac10c3ab979d4cd70e7d3328ada9,atulkushal_API_123,Shreemkt@12345,"{""access_token"":""9cd58955-3a57-447c-bb6b-bb6902d37f99"",""token_type"":""bearer"",""refresh_token"":""0c8e9838-dbb8-48b3-998a-52e5c138fe78"",""expires_in"":21599,""scope"":""einvapi"",""availableApiHits"":""65455""}",,00f77d4e-82e9-4b54-9da3-22b039b39502,abf36701-286c-4fed-89f6-0390493111be,9cd58955-3a57-447c-bb6b-bb6902d37f99,0c8e9838-dbb8-48b3-998a-52e5c138fe78
